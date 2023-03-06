@@ -1,0 +1,22 @@
+<resources>
+  <string name="app_name">Cardinal</string>
+
+  <string name="top_tracks">Top Tracks</string>
+  <string name="last_played">Last Played</string>
+  <string name="last_added">Last Added</string>
+  <string name="shuffle_all">Shuffle All</string>
+  <string name="songs">Songs</string>
+  <string name="albums">Albums</string>
+  <string name="artists">Artists</string>
+  <string name="genres">Genres</string>
+  <string name="playlists">Playlists</string>
+  <string name="album_count_template">%1$d albums</string>
+  <string name="album">album</string>
+  <string name="artist">artist</string>
+  <string name="title">title</string>
+  <string name="year">year</string>
+
+  <string name="prefs_name">music_player_preferences</string>
+  <string name="prefs_key_sorting_configuration">sorting_configuration</string>
+  <string name="pause">Pause</string>
+</resources>
